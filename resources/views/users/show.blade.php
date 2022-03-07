@@ -36,7 +36,7 @@
                             </tr>
                             <tr>
                                 <th>Estado</th>
-                                @if ($user->estado == 1)
+                                @if ($user->status == 1)
                                     <td><label style="font-size: 90%" class="badge badge-success">Habilitado</label></td>
                                 @else
                                     <td><label style="font-size: 90%" class="badge badge-danger">Inhabilitado</label></td>
