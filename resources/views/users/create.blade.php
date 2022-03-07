@@ -105,7 +105,7 @@
                                         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                                             <div class="form-group">
                                                 <label for="name">
-                                                    Nombre de Usuario
+                                                    Rol de Usuario
                                                 </label>
                                                 <div class="input-group">
                                                     <div class="input-group-prepend">
